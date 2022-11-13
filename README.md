@@ -17,7 +17,8 @@ This is made with Naive Bayes Classifier.
 
 Responses are fixed and ML help to select the best response.
 
-![Simple Chatbot](Resources/Simple-Chatbot.png)
+![image](https://user-images.githubusercontent.com/42657815/201503827-a564b2f4-b353-4014-ac68-0d29b1263bc5.png)
+
 
 
 
